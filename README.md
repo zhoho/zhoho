@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @zhoho
-- 👀 I’m interested in tennis
-- 🌱 I’m currently learning algorithm by python
+## Hi guys
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoho&theme=graywhite&show_icons=true)
+
+
 
 <!---
 zhoho/zhoho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
